@@ -55,3 +55,24 @@ body {
         background-position: 0% 50%;
     }
 }
+
+.forma {
+    display:flex;
+}
+
+.forma form {
+    display:flex;  
+    flex-direction: column;
+}
+
+
+.logo img {
+    width: 250px;
+    height: 250px;
+}
+
+
+
+.io img {
+    width: 200px;
+}
